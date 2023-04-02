@@ -12,6 +12,8 @@ Data Scientist/Data Analyst
 | <a href="https://github.com/JMerchen">GitHub</a>
 </div>
 
+[Interships](#internships)
+
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
